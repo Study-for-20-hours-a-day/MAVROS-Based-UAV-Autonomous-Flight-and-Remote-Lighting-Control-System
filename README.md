@@ -1,4 +1,5 @@
 # **Autonomous UAV Flight and Remote Lighting Control System**
+https://t.bilibili.com/1034770081082507280?share_source=pc_native
 
 ## **Project Overview**
 This project implements a **multi-functional UAV system** that combines **autonomous flight control**, **real-time lighting optimization**, and **adaptive posture adjustment**. The system is designed to optimize **low-altitude detection** by dynamically adjusting the onboard lighting and the UAV’s posture based on real-time environmental conditions. The core technology is based on **Continuous-Time Neural Networks (CTNN)**, which allows the UAV to continuously adapt to changes in lighting and flight posture, ensuring optimal detection performance.
